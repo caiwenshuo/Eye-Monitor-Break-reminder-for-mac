@@ -8,14 +8,14 @@ You can download in macOS App Store: https://apps.apple.com/us/app/eye-monitor-b
 [Eye Monitor](https://apps.apple.com/us/app/eye-monitor-break-reminders/id1527031341?mt=12) is a break reminder / standup reminder for macOS. Featured on Hacker News, Product Hunt & sspai.com. No.1 Health & Fitness app in over 13 countries.
 
 # How it work
-[Eye monitor](https://apps.apple.com/us/app/eye-monitor-break-reminders/id1527031341?mt=12) monitors keyboard, mouse usage,  trackpad usage, and tells you when you’ve been using the computer for too long.
+Eye monitor monitors keyboard, mouse usage,  trackpad usage, and tells you when you’ve been using the computer for too long.
 
 # What can you use it for
 Users use Eye Monitor to regularly take a break after using mac for a long time to prevent RSI, eye strain, headaches, backaches. Some of them also use it as a standup reminder or drink water reminder for macOS.
 And accroding to the reviews, some users use Eye Monitor's chart to know if they are really working hard enough (like a productivity record).
 
 # Features 
-## [Eye Monitor](https://apps.apple.com/us/app/eye-monitor-break-reminders/id1527031341?mt=12) offers multiple ways to remind you to take a break on macbook:
+## Eye Monitor offers multiple ways to remind you to take a break on macbook:
 
 · Full screen reminder
 <img width="972" alt="Screenshot 2023-11-13 at 22 07 06" src="https://github.com/caiwenshuo/Eye-Monitor-Break-reminder-for-mac/assets/29033996/648c944d-4a20-4fe7-bab3-e1d27475fc98">
