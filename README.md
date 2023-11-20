@@ -55,6 +55,6 @@ Dock icon will indicate your fatigue
 Except using a third party SDK [RevenueCat](https://app.revenuecat.com/), Eye Monitor has no Internet Connection. So your privacy is promised.
  
 ## Link
-You can download in App Store: https://apps.apple.com/us/app/eye-monitor-break-reminders/id1527031341?mt=12
+You can download in App Store: [https://apps.apple.com/us/app/eye-monitor-break-reminders/id1527031341?mt=12](https://apps.apple.com/app/apple-store/id1527031341?pt=121796720&ct=github&mt=8)https://apps.apple.com/app/apple-store/id1527031341?pt=121796720&ct=github&mt=8
 
 
