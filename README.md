@@ -4,8 +4,8 @@
 # Install
 You can download in macOS App Store: https://apps.apple.com/us/app/eye-monitor-break-reminders/id1527031341?mt=12
 
-# What is [Eye Monitor](https://apps.apple.com/us/app/eye-monitor-break-reminders/id1527031341?mt=12)
-[Eye Monitor](https://apps.apple.com/us/app/eye-monitor-break-reminders/id1527031341?mt=12) is a break reminder / standup reminder for macOS. Featured on Hacker News, Product Hunt & sspai.com. No.1 Health & Fitness app in over 13 countries.
+# What is [Eye Monitor](https://apps.apple.com/app/apple-store/id1527031341?pt=121796720&ct=github&mt=8)
+[Eye Monitor](https://apps.apple.com/app/apple-store/id1527031341?pt=121796720&ct=github&mt=8) is a break reminder / standup reminder for macOS. Featured on Hacker News, Product Hunt & sspai.com. No.1 Health & Fitness app in over 13 countries.
 
 # How it work
 Eye monitor monitors keyboard, mouse usage,  trackpad usage, and tells you when you’ve been using the computer for too long.
